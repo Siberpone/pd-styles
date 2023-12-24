@@ -1,0 +1,3 @@
+.nvimrc
+*.py
+*pycache*

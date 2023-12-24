@@ -1,0 +1,22 @@
+name,prompt,negative_prompt
+-------< ⑥ Utility >-------,,
+✨⑥ Pony Prompt Base,"score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, {prompt}",
+🚫⑥ Default Negative,,"blurry"
+🚫⑥ Painting,,"painting"
+--------< ⑥ Styles >-------,,
+🐴⑥ G5,"g5, my little pony: a new generation, 3d","outline, countershading"
+🐴⑥ TYT,"g5, my little pony: tell your tale, vector",
+🦄⑥ Show Accurate,"show accurate, vector, flat colors",
+🦄⑥ 2017 Movie,"my little pony: the movie, movie accurate, vector, flat colors",
+🦄⑥ Pony Life,"my little pony: pony life, vector",
+🎎⑥ Equestria Girls,"equestria girls series, show accurate, vector",
+📙⑥ IDW Comics,"official comic, idw, andy you magnificent bastard",
+🨅 ⑥ Realistic Figurine,"figurine, photo, kotobukiya",multiple views
+🧸⑥ Realistic Pluhsie,"plushie, photo",multiple views
+💻⑥ Digital Drawing,"","(source filmmaker:0.3), anime, painting"
+🖉 ⑥ Pencil Drawing,"traditional art, pencil drawing, crayon drawing, pencil \(artwork\), hatching \(art\)","painting, acrylic painting, (vector:0.6)"
+🖉 ⑥ 🚧 Pencil Sketch,"traditional art, pencil drawing, sketch, grayscale, monochrome, lineart","painting"
+🖋⑥ 🚧 Lineart,"digital media \(artwork\), lineart, monochrome, high contrast, sketch, vector","painting, shading, colored, anime, source filmmaker"
+🖍⑥ Marker Drawing,"traditional art, marker drawing","painting, vector"
+🖼⑥ 🚧 Watercolor Painting,"watercolor painting, painting",vector
+🖽 ⑥ Minimalistic,"minimalist, modern art, vector, lineless, absurd resolution",
