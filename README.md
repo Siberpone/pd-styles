@@ -1,15 +1,22 @@
 # Pony Diffusion Styles Collection
 This is a Pony Diffusion [V5](https://civitai.com/models/95367/pony-diffusion-v5)/[V6](https://purplesmart.ai) styles collection for [AUTOMATIC1111's Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
+> [!IMPORTANT]
+> **New in 1.1:**
+> * IRL Ponies Style
+> * Improved IDW Comic style
+> * Race Swap collection
+
 ![Showcase](showcase.webp)
 
 # Installation
-### A1111 V. 1.7+
+### A1111 v1.7+
 Head on over to the [releases](https://github.com/Siberpone/pd-styles/releases/latest) page and download one or several .csv files:
 
 * `styles-pd-common.csv` contains small useful style- and model-agnostic snippets and modifiers;
 * `styles-pd-v5.csv` contains styles for legacy V5/V5.5 models;
-* `styles-pd-v6.csv` contains styles for the newest V6 XL model.
+* `styles-pd-v6.csv` contains styles for the newest V6 XL model;
+* `styles-pd-v6-race-swap.csv` contains snippets for swapping character's race.
 
 Once you've downloaded the desired files, put them into the root webui directory and add an additional launch parameter to the webui:
 
@@ -47,3 +54,6 @@ Generally, I would recommend not to spam "soup words" and keep prompts concise a
 ### PurpleSmart.AI Bot
 
 You can use these handy copy-pastable templates with the bot: [v5](psai-template-v5.md) | [v6](psai-template-v6.md)
+### Contributors
+
+[ZealousMagician](https://github.com/ZealousMagician) - G1 VHS Style
